@@ -8,7 +8,7 @@ In order to run this React Native app, you need to have:
 [Java SE Development Kits (JDK)](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 [Node.js](https://nodejs.org/en/)
 [Python2](https://www.python.org/downloads/)
-[Android Studio] (https://developer.android.com/studio/)
+[Android Studio](https://developer.android.com/studio/)
 
 #### Windows
 A better way to set up all environment is to use [Chocolatey](https://chocolatey.org/)
@@ -19,7 +19,7 @@ choco install -y nodejs.install python2 jdk8
 
 #### MacOS
 
-Use [Homebrew] (https://brew.sh/)
+Use [Homebrew](https://brew.sh/)
 
 ```
 brew install node
@@ -29,7 +29,7 @@ brew install watchman
 #### Linux 
 Follow the [node.js website](https://nodejs.org/en/download/package-manager/) to install node 8.3 or newer.
 
-For a more complete setup, please visit [React Native] (https://facebook.github.io/react-native/docs/getting-started.html)
+For a more complete setup, please visit [React Native](https://facebook.github.io/react-native/docs/getting-started.html)
 
 ## Installing
 * Clone this repository in your local folder
