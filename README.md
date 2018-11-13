@@ -55,13 +55,13 @@ npm install striptags
  react-native run-ios
  ```
  
- ##Built With
+ ## Built With
  * [React Native](https://facebook.github.io/react-native/)
  * [React](https://reactjs.org/)
  * JavaScript ES6
  * [WP REST API](http://v2.wp-api.org/) built in to the USCPFA-MN
  
- ##Acknowledgement
+ ## Acknowledgement
  * Thanks to [freeCodeCamp](https://medium.freecodecamp.org/create-a-news-app-using-react-native-ced249263627) for its tutorial
  * Thanks to React Native's online tutorial
  
