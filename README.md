@@ -1,5 +1,5 @@
 # NewsApp
-This is the news event hybrid app for the [USCPFA-MN](uscpfa-mn.org) with React Native
+This is the news event hybrid app for the [USCPFA-MN](http://uscpfa-mn.org) with React Native
 
 ## Prerequisites
 In order to run this React Native app, you need to have: 
